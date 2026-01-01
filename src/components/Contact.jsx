@@ -27,13 +27,13 @@ const Contact = () => {
                             <div className="detail-group">
                                 <h6>SOCIAL MEDIA</h6>
                                 <div className="social-links">
-                                    <a href="#">TWITTER</a>
+                                    <a href="#">WHATSAPP</a>
                                     <span>—</span>
                                     <a href="#">INSTAGRAM</a>
-                                    <span>—</span>
+                                    {/* <span>—</span>
                                     <a href="#">GITHUB</a>
                                     <span>—</span>
-                                    <a href="#">TWITCH</a>
+                                    <a href="#">TWITCH</a> */}
                                 </div>
                             </div>
 
