@@ -25,7 +25,7 @@ const Contact = () => {
 
                         <div className="details-grid">
                             <div className="detail-group">
-                                <h6>SOCIAL MEDIA</h6>
+                                <h6>SOCIAL-MEDIA</h6>
                                 <div className="social-links">
                                     <a href="#">WHATSAPP</a>
                                     <span>—</span>
